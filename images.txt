@@ -1,1 +1,2 @@
-zabbix/zabbix-server-mysql
+zabbix/zabbix-agent
+snaptv/zabbix-server
